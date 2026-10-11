@@ -1,0 +1,25 @@
+system,reference_phase,source_note
+NiCr,FCC,Ni-Cr solid solution (Ni-rich FCC)
+NiAl,IM,B2 NiAl intermetallic
+FeCr,BCC,Fe-Cr BCC solid solution
+CoNi,FCC,isomorphous FCC
+CuNi,FCC,Cu-Ni isomorphous FCC
+AlTi,IM,gamma-TiAl / alpha2-Ti3Al ordered
+MoNb,BCC,refractory BCC solid solution
+TaW,BCC,refractory BCC solid solution
+CoCrNi,FCC,medium-entropy single-phase FCC (well established)
+FeCrNi,FCC,austenitic-type FCC
+AlCoNi,MULTI,Al-Ni B2 + FCC multiphase
+MoNbTa,BCC,Senkov refractory BCC
+TiZrNb,BCC,BCC solid solution
+AlCrFe,BCC,BCC-dominated
+CuNiZn,FCC,brass-type FCC
+VNbTi,BCC,BCC solid solution
+CoCrFeMnNi,FCC,Cantor alloy single-phase FCC
+AlCoCrFeNi,MULTI,duplex BCC+FCC (composition dependent)
+HfNbTaTiZr,BCC,Senkov refractory BCC
+MoNbTaVW,BCC,Senkov refractory BCC
+TiZrNbHfTa,BCC,refractory BCC solid solution
+AlCoCrFeCu,MULTI,"Cu segregation, multiphase"
+CoCrFeNiCu,FCC,"FCC with Cu-rich interdendritic, predominantly FCC"
+AlCrFeMnNi,MULTI,BCC/B2 + FCC multiphase

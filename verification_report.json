@@ -1,0 +1,104 @@
+{
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "packages": {
+    "numpy": "2.2.6",
+    "pandas": "3.0.1",
+    "scikit-learn": "1.9.1",
+    "matplotlib": "3.10.5",
+    "Pillow": "12.3.0"
+  },
+  "raw_records_verified": 120,
+  "tables": {
+    "aggregated_by_system.csv": {
+      "values_match": true,
+      "bytes_match": false
+    },
+    "confusion_matrix.csv": {
+      "values_match": true,
+      "bytes_match": false
+    },
+    "data_numeric_predictions.csv": {
+      "values_match": true,
+      "bytes_match": false
+    },
+    "metrics_classification.csv": {
+      "values_match": true,
+      "bytes_match": false
+    },
+    "metrics_numeric.csv": {
+      "values_match": true,
+      "bytes_match": false
+    },
+    "metrics_numeric_pooled.csv": {
+      "values_match": true,
+      "bytes_match": false
+    },
+    "metrics_reproducibility.csv": {
+      "values_match": true,
+      "bytes_match": false
+    },
+    "reproducibility_by_system.csv": {
+      "values_match": true,
+      "bytes_match": false
+    }
+  },
+  "images": {
+    "figure_phase_agreement.png": {
+      "pixels_match": true,
+      "bytes_match": false,
+      "reference_size": [
+        2104,
+        1452
+      ],
+      "generated_size": [
+        2104,
+        1452
+      ],
+      "reference_sha256": "f6118f0540ae7d9149d6300c64490791ef706c252c5bb1b3a4b5c0a12c03f3ae",
+      "generated_sha256": "34194a8692a08e78310f00cd7d2fcfe1d515a7e597aadf68b419dfdfa57ccfe1"
+    },
+    "figure_phase_confusion_matrix.png": {
+      "pixels_match": false,
+      "bytes_match": false,
+      "reference_size": [
+        1999,
+        1526
+      ],
+      "generated_size": [
+        1999,
+        1526
+      ],
+      "reference_sha256": "f8bbde43fbf8f8eedccd85ecb252e49795fe02d9f29a6f69ee041e9da4b95a53",
+      "generated_sha256": "6f2f9e3bc0f7248710252f5eda7f0294a0cb7d8f2ffd7abb14738b072d18c456"
+    },
+    "figure_phase_performance.png": {
+      "pixels_match": false,
+      "bytes_match": false,
+      "reference_size": [
+        2111,
+        1512
+      ],
+      "generated_size": [
+        2111,
+        1512
+      ],
+      "reference_sha256": "ee58074b96f4f237bc7a6d10c2fd7b67f312920af21479f07cfea877695aa586",
+      "generated_sha256": "a8476bdafbbe5db287a1105585c74375137d65ee4cc74cb24c7a6ce5ebe78114"
+    },
+    "figure_reproducibility_dH_sd.png": {
+      "pixels_match": true,
+      "bytes_match": false,
+      "reference_size": [
+        2107,
+        1512
+      ],
+      "generated_size": [
+        2107,
+        1512
+      ],
+      "reference_sha256": "3dfc2716cf4ec5294266bf776cac2d2380dad9494ebf9263ad8cf2f61aedfab6",
+      "generated_sha256": "5de35e8d7acec87ffc89c518e59c4e7d9d658f35508dc0118c3a28ec782bde74"
+    }
+  },
+  "all_pixels_match": false
+}

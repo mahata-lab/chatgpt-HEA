@@ -1,0 +1,54 @@
+{
+  "source": "Original supplementary plotting script and saved CSVs",
+  "images": {
+    "figure4_parity.png": {
+      "pixels_match": true,
+      "reference_size": [
+        2838,
+        2578
+      ],
+      "generated_size": [
+        2838,
+        2578
+      ],
+      "reference_sha256": "bd850665f272691acfe0d14308efb126726164f76a4c65a14924a2cf57bed277",
+      "generated_sha256": "f2afc66248c29c0cf7547f2a7acfeb4f3aea84c630447e2e8b6abfbc4a06136b"
+    },
+    "figure5_classification.png": {
+      "pixels_match": true,
+      "reference_size": [
+        2958,
+        1270
+      ],
+      "generated_size": [
+        2958,
+        1270
+      ],
+      "reference_sha256": "08849c7074c72db8de55ec3834fcae3777158d3d93ee0d74664c73919ab28ce0",
+      "generated_sha256": "a56f294f92497efb29c430d2497e29846b3e5733ad31ce3506ed6fd7ab85824f"
+    },
+    "figure6_validity.png": {
+      "pixels_match": true,
+      "reference_size": [
+        4012,
+        1284
+      ],
+      "generated_size": [
+        4012,
+        1284
+      ],
+      "reference_sha256": "8b0e742311d4674231edc037373dac68a758809f1609e16f1e0e3cf0ea9cec81",
+      "generated_sha256": "f4216878e815f08a76123a68cca6a9e49d3d95f0861391fd56c0b7937735f4df"
+    }
+  },
+  "evaluation_tables": {
+    "confusion_matrix.csv": true,
+    "data_expert_ratings.csv": true,
+    "data_numeric_predictions.csv": true,
+    "metrics_classification.csv": true,
+    "metrics_execution.csv": true,
+    "metrics_irr.csv": true,
+    "metrics_reproducibility.csv": true
+  },
+  "all_pixels_match": true
+}

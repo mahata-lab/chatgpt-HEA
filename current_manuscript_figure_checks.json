@@ -1,0 +1,9 @@
+{
+  "scope": "Current recorded-data manuscript Figures 3, 4 and 6",
+  "pixel_identity": {
+    "Figure3_recorded_parity.png": true,
+    "Figure4_recorded_classification.png": true,
+    "Fig.6_repeatability_boxplots.png": true
+  },
+  "all_match": true
+}

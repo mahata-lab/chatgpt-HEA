@@ -1,0 +1,4 @@
+tier,mean_SD_dH_kJmol,median_SD_dH_kJmol,mean_SD_delta_pctpoint,categorical_agreement_pct,valid_phase_runs_pct
+Simple (Binary),2.0128861036805996,0.0,0.6617466797255318,100.0,100.0
+Complex (Ternary),0.5391765488922764,0.49746807650256203,0.4926192767734293,100.0,100.0
+Very Complex (Quinary),0.635482699236284,0.3605374371262705,0.2868045396342897,100.0,100.0

@@ -1,0 +1,97 @@
+system,tier,descriptor,reference,predicted
+NiCr,Simple (Binary),dS,5.763146321537762,5.76
+NiCr,Simple (Binary),dH,-7.0,-2.0
+NiCr,Simple (Binary),VEC,8.0,9.0
+NiCr,Simple (Binary),delta,0.12024048096193063,1.8559999999999999
+NiAl,Simple (Binary),dS,5.763146321537762,5.76
+NiAl,Simple (Binary),dH,-22.0,-22.0
+NiAl,Simple (Binary),VEC,6.5,7.5
+NiAl,Simple (Binary),delta,6.9454817027632565,0.052000000000000005
+FeCr,Simple (Binary),dS,5.763146321537762,5.76
+FeCr,Simple (Binary),dH,-1.0,-1.0
+FeCr,Simple (Binary),VEC,7.0,6.9
+FeCr,Simple (Binary),delta,0.3212851405622441,0.506
+CoNi,Simple (Binary),dS,5.763146321537762,5.76
+CoNi,Simple (Binary),dH,0.0,-0.40199999999999997
+CoNi,Simple (Binary),VEC,9.5,9.0
+CoNi,Simple (Binary),delta,0.20024028834601526,0.0
+CuNi,Simple (Binary),dS,5.763146321537762,5.76
+CuNi,Simple (Binary),dH,4.0,-4.0
+CuNi,Simple (Binary),VEC,10.5,8.3
+CuNi,Simple (Binary),delta,1.2678288431061835,1.998
+AlTi,Simple (Binary),dS,5.763146321537762,5.76
+AlTi,Simple (Binary),dH,-30.0,-18.4
+AlTi,Simple (Binary),VEC,3.5,3.5
+AlTi,Simple (Binary),delta,1.0366275051831408,8.319999999999999
+MoNb,Simple (Binary),dS,5.763146321537762,5.76
+MoNb,Simple (Binary),dH,-6.0,0.0
+MoNb,Simple (Binary),VEC,5.5,5.5
+MoNb,Simple (Binary),delta,2.3638968481375313,4.3100000000000005
+TaW,Simple (Binary),dS,5.763146321537762,5.76
+TaW,Simple (Binary),dH,-7.0,0.0
+TaW,Simple (Binary),VEC,5.5,6.1
+TaW,Simple (Binary),delta,2.252413299964251,0.526
+CoCrNi,Complex (Ternary),dS,9.134370805806423,9.610000000000001
+CoCrNi,Complex (Ternary),dH,-4.888888888888888,-3.6
+CoCrNi,Complex (Ternary),VEC,8.333333333333332,8.0
+CoCrNi,Complex (Ternary),delta,0.1645599039767476,2.1
+FeCrNi,Complex (Ternary),dS,9.134370805806423,11.05
+FeCrNi,Complex (Ternary),dH,-4.444444444444444,-2.8
+FeCrNi,Complex (Ternary),VEC,7.999999999999999,8.0
+FeCrNi,Complex (Ternary),delta,0.2649757745345702,2.976
+AlCoNi,Complex (Ternary),dS,9.134370805806423,11.05
+AlCoNi,Complex (Ternary),dH,-18.22222222222222,-4.2
+AlCoNi,Complex (Ternary),VEC,7.333333333333333,8.468
+AlCoNi,Complex (Ternary),delta,6.606781132486178,4.103999999999999
+MoNbTa,Complex (Ternary),dS,9.134370805806423,11.53
+MoNbTa,Complex (Ternary),dH,-4.888888888888888,0.0
+MoNbTa,Complex (Ternary),VEC,5.333333333333333,5.67
+MoNbTa,Complex (Ternary),delta,2.2276924786409262,3.4879999999999995
+TiZrNb,Complex (Ternary),dS,9.134370805806423,11.05
+TiZrNb,Complex (Ternary),dH,2.6666666666666665,0.0
+TiZrNb,Complex (Ternary),VEC,4.333333333333333,4.67
+TiZrNb,Complex (Ternary),delta,5.037289580751262,3.604
+AlCrFe,Complex (Ternary),dS,9.134370805806423,9.13
+AlCrFe,Complex (Ternary),dH,-9.777777777777777,-2.1
+AlCrFe,Complex (Ternary),VEC,5.666666666666666,7.066
+AlCrFe,Complex (Ternary),delta,6.747561888487964,4.24
+CuNiZn,Complex (Ternary),dS,9.134370805806423,9.610000000000001
+CuNiZn,Complex (Ternary),dH,-4.888888888888889,-2.4
+CuNiZn,Complex (Ternary),VEC,11.0,1.67
+CuNiZn,Complex (Ternary),delta,4.868450849440068,3.658
+VNbTi,Complex (Ternary),dS,9.134370805806423,10.09
+VNbTi,Complex (Ternary),dH,-0.4444444444444444,-0.2
+VNbTi,Complex (Ternary),VEC,4.666666666666666,4.67
+VNbTi,Complex (Ternary),delta,4.457982585222785,3.8400000000000007
+CoCrFeMnNi,Very Complex (Quinary),dS,13.381611358925287,13.38
+CoCrFeMnNi,Very Complex (Quinary),dH,-4.160000000000001,-2.2
+CoCrFeMnNi,Very Complex (Quinary),VEC,8.0,8.0
+CoCrFeMnNi,Very Complex (Quinary),delta,3.2694635767180027,2.6740000000000004
+AlCoCrFeNi,Very Complex (Quinary),dS,13.381611358925287,13.38
+AlCoCrFeNi,Very Complex (Quinary),dH,-12.320000000000004,-3.6
+AlCoCrFeNi,Very Complex (Quinary),VEC,7.200000000000001,7.640000000000001
+AlCoCrFeNi,Very Complex (Quinary),delta,5.7778895590023716,4.087999999999999
+HfNbTaTiZr,Very Complex (Quinary),dS,13.381611358925287,13.38
+HfNbTaTiZr,Very Complex (Quinary),dH,2.72,-3.4
+HfNbTaTiZr,Very Complex (Quinary),VEC,4.3999999999999995,4.4
+HfNbTaTiZr,Very Complex (Quinary),delta,4.994417459613794,4.180000000000001
+MoNbTaVW,Very Complex (Quinary),dS,13.381611358925287,13.38
+MoNbTaVW,Very Complex (Quinary),dH,-4.640000000000001,-0.9
+MoNbTaVW,Very Complex (Quinary),VEC,5.4,5.8
+MoNbTaVW,Very Complex (Quinary),delta,3.1480181200990818,4.177999999999999
+TiZrNbHfTa,Very Complex (Quinary),dS,13.381611358925287,13.38
+TiZrNbHfTa,Very Complex (Quinary),dH,2.72,0.0
+TiZrNbHfTa,Very Complex (Quinary),VEC,4.4,4.6
+TiZrNbHfTa,Very Complex (Quinary),delta,4.994417459613796,4.235999999999999
+AlCoCrFeCu,Very Complex (Quinary),dS,13.381611358925287,13.38
+AlCoCrFeCu,Very Complex (Quinary),dH,-2.5600000000000005,-3.2
+AlCoCrFeCu,Very Complex (Quinary),VEC,7.400000000000001,7.4
+AlCoCrFeCu,Very Complex (Quinary),delta,5.579539690605355,4.359999999999999
+CoCrFeNiCu,Very Complex (Quinary),dS,13.381611358925287,13.38
+CoCrFeNiCu,Very Complex (Quinary),dH,3.2000000000000006,-3.3
+CoCrFeNiCu,Very Complex (Quinary),VEC,8.8,8.319999999999999
+CoCrFeNiCu,Very Complex (Quinary),delta,1.0332036605064516,3.5
+AlCrFeMnNi,Very Complex (Quinary),dS,13.381611358925287,13.38
+AlCrFeMnNi,Very Complex (Quinary),dH,-12.480000000000004,-3.9
+AlCrFeMnNi,Very Complex (Quinary),VEC,6.800000000000001,7.4
+AlCrFeMnNi,Very Complex (Quinary),delta,5.827707431467387,4.16

@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+hea_verify_*/
+# Derived outputs; verified originals are tracked in reference_outputs/.
+data_rerun/*.png
+data_rerun/aggregated_by_system.csv
+data_rerun/confusion_matrix.csv
+data_rerun/data_numeric_predictions.csv
+data_rerun/metrics_*.csv
+data_rerun/reproducibility_by_system.csv
+data_rerun/scoring_manifest.json
+manuscript_figures/*.png
